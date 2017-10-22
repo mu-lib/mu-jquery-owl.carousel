@@ -1,0 +1,30 @@
+{
+  "name": "mu-jquery-widget-owl",
+  "version": "0.0.0",
+  "description": "mu-jquery-widget owl.carousel widget",
+  "main": "",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-lib/mu-jquery-widget-owl.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-jquery-widget-owl/issues"
+  },
+  "homepage": "https://github.com/mu-lib/mu-jquery-widget-owl#readme",
+  "dependencies": {
+    "mu-jquery-widget": "^17.0.4"
+  },
+  "peerDependencies": {
+    "owl.carousel": "^2.2.0"
+  },
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "mu-jquery-app": "^21.0.0",
+    "standard-version": "^4.2.0"
+  }
+}
