@@ -2,6 +2,7 @@
 
 - [source](widget.js)
 - [examples](examples)
+- [changelog](CHANGELOG.md)
 
 ## Installation
 
